@@ -8,3 +8,5 @@ Recopila registros de observacion de objetos voladores no identificados en las Ã
 El analisis hecho tiene un solo proposito: divertirme un poco con los datos! (y aprobar el cursado)
 
 WARNING: no tengo idea de lo que estoy haciendo.
+
+Base de datos original disponible en data.org (por Chandler Kaiden - https://data.world/ck30/ufo-data-nuforc)
